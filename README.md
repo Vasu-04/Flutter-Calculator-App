@@ -1,10 +1,10 @@
-# Simple Calculator App
+# Flutter Calculator App
 
 A basic calculator app developed using Flutter during summer in-house training at Brain Mentors Pvt. Ltd. The app provides a clean and simple graphical user interface (GUI) and supports essential arithmetic operations.
 
 ## Features
 
-- Addition, subtraction, multiplication, and division
+- Addition, subtraction, multiplication, Percentage, Negate, Division and All Clear
 - Single-page application with a user-friendly interface
 - Clean and responsive design
 
@@ -15,7 +15,7 @@ To get started with the app, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Simple-Calculator-App-Flutter.git
+   git clone https://github.com/Vasu-04/Flutter-Calculator-App.git
 2. Navigate to the Project Directory:
    ```bash
    cd Simple-Calculator-App-Flutter
